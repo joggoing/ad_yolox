@@ -4,6 +4,7 @@
 import re
 import setuptools
 import sys
+import numpy as np
 
 TORCH_AVAILABLE = True
 try:
